@@ -1,0 +1,14 @@
+Package: visrad
+Title: Visualise aggregated birdradar data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Johannes",
+           family = "De Groeve",
+           role = c("aut", "cre"),
+           email = "degroevejohannes@gmail.com",
+           comment = c(ORCID = "0000-0002-1274-3237"))
+Description: Extract and visualise aggregated bird radar data in levelplots 
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
