@@ -8,7 +8,7 @@
 #' @param variable The variable representing the values in the reshaped data frame 
 
 #' @keywords radar, aggregate, reshape
-
+#' @export
 #' @examples
 #' connect to database 
 #' library(RPostgreSQL)
