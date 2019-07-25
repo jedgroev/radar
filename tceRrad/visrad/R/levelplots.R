@@ -7,9 +7,9 @@
 #' @param main title of the plot 
 #' @param col colors to use
 #' @param at the color bins
-
+#' @export
 #' @examples
-#' connect to database 
+#' # Connect to database 
 #' library(RPostgreSQL)
 #' con <- dbConnect('PostgreSQL', 
 #'                  dbname='staticeemshaven', 
