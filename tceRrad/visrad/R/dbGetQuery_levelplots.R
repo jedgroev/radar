@@ -12,6 +12,7 @@
 #' @param pseudorep Account for pseudoreplication by averaging per track or not
 
 #' @keywords RpostgreSQL, radar, aggregate
+#' @export
 
 #' @examples 
 #' # connect to database 
